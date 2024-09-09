@@ -110,7 +110,7 @@ def clean_csv(input_path, output_path):
     df.to_csv(output_path, index=False)
 
 # File paths
-input_path = 'Pet Project 2608.csv'  
+input_path = 'Pet Project.csv'  
 output_path = 'cleaned_data.csv'  
 
 # Clean the CSV file
