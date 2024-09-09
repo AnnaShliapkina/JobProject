@@ -1,4 +1,4 @@
-Unnamed: 0,Job Title,Company Name,Industry,Location,Employment Type,Salary Range,Job Description,Required Skills,key_skills (copy the main ones from required),Preffered Skills,Experience Level,Experience Required,Language,Education,Application Link,Posting Date,Deadline,Language of posting
+unnamed:_0,job_title,company_name,industry,location,employment_type,salary_range,job_description,required_skills,key_skills,preffered_skills,experience_level,experience_required,language,education,application_link,posting_date,deadline,language_of_posting
 1,Business-Oriented Bi And Data Analyst,Bunzl Nordic,safety equipment,2670 Greve,Hybrid work,,"Your duties will include:Development and maintenance of PowerBI reports and dashboards,
 Gathering, analyzing and interpreting data from various sources to identify trends and patterns
 Collaborate with business units to understand their needs and deliver tailored reporting solutions
@@ -10,11 +10,11 @@ DAX, SQL and data modeling
 Strong analytical skills and ability to present complex data in an easy-to-understand manner
 Ability to work independently and handle ""end-to-end"" processes
 Communication skills and the ability to communicate technical issues clearly
-Experience with business process optimization and automation","PowerBi, DAX, SQL, analytical skills",,,1-2 years,"English.
+Experience with business process optimization and automation","PowerBI, DAX, SQL, analytical skills",,,1-2 years,"English.
 Danish",Not mentioned,https://dk.indeed.com/jobs?q=data+analyst&l=&from=searchOnDesktopSerp&vjk=80c1e339567e2187,2024-08-09,,Danish
 2,Data Analyst/Power Bi Specialist Within Marketing Operations,Universal Robots,Robotics ,Odense,N/A,N/A,"Responsibilities: Extract and transform data from various sources e.g. SalesForce to prepare it for analysis.
 Develop and maintain dashboards to showcase marketing performance metrics across product areas, pipeline, conversion rates, and value split by e.g. industry, geography, time etc.
-Generate Power BI reports with seamless integration into Excel for comprehensive data analysis and reporting.
+Generate PowerBI reports with seamless integration into Excel for comprehensive data analysis and reporting.
 Build Predictive Analysis reports to enable us to use our data proactively to build stronger plans
 Build forecast model","5-8 years of experience from marketing analytics or related field
 Proficiency in Power BI, SalesForce and Excel, with hands-on experience in developing marketing dashboards.
@@ -22,7 +22,7 @@ Key Competencies includes development of user-friendly dashboards and reports, d
 Ability to work independently to identify and visualize relevant KPIs that align with business objectives. Demonstrated ability to gather, structure, and analyze complex data for reporting and visualization purposes
 Skilled in collaborating with cross-functional teams and stakeholders to deliver data-driven insights and actionable recommendations
 Strong analytical skills to gather and structure data effectively for reporting purposes and look for trends in the numbers we can use to scale our business.
-Must be based in Denmark and be fluid in spoken and written English","Power BI, SalesForce, Excel",,,5-8 years of experience from marketing analytics or related field,English,Not mentioned,https://jobs.teradyne.com/Universal-Robots/job/Odense-Data-AnalystPower-BI-specialist-within-Marketing-Operations-Sout/1204205900/,N/A,N/A,English
+Must be based in Denmark and be fluid in spoken and written English","PowerBI, SalesForce, Excel",,,5-8 years of experience from marketing analytics or related field,English,Not mentioned,https://jobs.teradyne.com/Universal-Robots/job/Odense-Data-AnalystPower-BI-specialist-within-Marketing-Operations-Sout/1204205900/,N/A,N/A,English
 3,Junior Business Analyst To Large International Bank,International Bank,Finance,Copenhagen,Full time,,"Responsabilities: Data Analysis and Reporting: Perform regular data analysis using SQL and Python to generate reports on customer behavior, platform performance, and operational metrics
 Stakeholder Coordination: Collaborate with internal teams and external stakeholders to support customer onboarding processes for complex products, ensuring smooth integration and user satisfaction
 System Monitoring: Monitor and analyze the performance of trading and advisory platforms, identifying trends, issues, and opportunities for improvement
@@ -42,7 +42,11 @@ Perform additional tasks as required to support the Talent Acquisition team","A
 Demonstrated proficiency in Microsoft Excel and PowerPoint, with a strong grasp of their advanced features and functionalities.
 Exceptional organizational and multitasking abilities, with a proven track record of managing multiple priorities effectively.
 Capability to work autonomously as well as collaboratively within a team, demonstrating both initiative and teamwork skills.
-",,,A minimum of 2 years of relevant experience in a multinational environment,,,,,N/A,,English
+","A minimum of 2 years of relevant experience in a multinational environment, ideally in an analytical or project-based role.
+Demonstrated proficiency in Microsoft Excel and PowerPoint, with a strong grasp of their advanced features and functionalities.
+Exceptional organizational and multitasking abilities, with a proven track record of managing multiple priorities effectively.
+Capability to work autonomously as well as collaboratively within a team, demonstrating both initiative and teamwork skills.
+",,A minimum of 2 years of relevant experience in a multinational environment,,,,,N/A,,English
 5,Junior Bi Analyst,Traffic Lab Aps,,Copenhagen,,,"Analyze data to identify patterns and trends, providing data-driven insights and recommendations
 Collaborate with colleagues from different teams to understand business requirements
 Monitor and ensure data quality, maintaining accuracy and completeness
@@ -54,7 +58,14 @@ Experience with Python and Machine Learning is an advantage
 Master’s degree in business or data science
 Fluent in English, both written and spoken
 A few years of experience in a similar position, or at the beginning of your career.
-",,,,,,,,N/A,,English
+","Excellent analytical skills, driven by logic and evidence
+Ability to draw conclusions and present recommendations
+Proficient in PowerBI and SQL
+Experience with Python and Machine Learning is an advantage
+Master’s degree in business or data science
+Fluent in English, both written and spoken
+A few years of experience in a similar position, or at the beginning of your career.
+",,,,,,,N/A,,English
 6,"Senior Data Analyst, Commercial & Marketing",Trustpilot,Sofware,Copenhagen,Full-Time ,,"Delivering expert analytics and insights to different parts of the business, through both workstream-focused initiatives and ad-hoc inquiries
 Picking the right solution for the problem you’ve got, from your arsenal of analytical tools and methods
 Working closely with the Commercial/Marketing or Trust teams to understand their data and their goals to deliver awesome solutions
@@ -143,7 +154,12 @@ Ability to handle medium and high-risk projects/accounts
 Extensive travel reservations & process experience 
 Good command of English 
 Experience working in any of the GDSs
-Programming experience using GDS or non-industry languages (VB, JAVA, .net) ",,,,,English,,https://jobs.bcdtravel.com/job/Travel-Technology-Business-Analyst/797684602/,N/A,18/08/2024,English
+Programming experience using GDS or non-industry languages (VB, JAVA, .net) ","Strong problem-solving and process reengineering skills 
+Ability to handle medium and high-risk projects/accounts 
+Extensive travel reservations & process experience 
+Good command of English 
+Experience working in any of the GDSs
+Programming experience using GDS or non-industry languages (VB, JAVA, .net) ",,,,English,,https://jobs.bcdtravel.com/job/Travel-Technology-Business-Analyst/797684602/,N/A,18/08/2024,English
 12,Qhse Supplier Performance Analyst,Orsted,,Copenhagen,Full Time,,"establishing and managing the QHSE Supplier Performance Management System
 ensuring timely reporting to business stakeholders ensuring risk is effectively communicated with supporting data
 supporting colleagues in generating the necessary background information for developing supplier improvement plans
@@ -153,14 +169,14 @@ have demonstrable skills in stakeholder management and communication with all le
 have technical knowledge and skills in establishing and working with databases and reporting outputs in systems, such as PowerBI or similar
 have a demonstrable ability to analyse and report data for driving QHSE excellence beyond reducing injury statistics and non-conformities
 speak and write English fluently
-preferably have experience with AI applications.",QHSE Power BI AI applications,,,,English,,QHSE Supplier Performance Analyst,2024-08-21,,English
+preferably have experience with AI applications.",QHSE PowerBI AI applications,,,,English,,QHSE Supplier Performance Analyst,2024-08-21,,English
 13,Data Engineers,Copenhagen Airports A/S (Cph),aviation services industry.,Copenhagen,Full Time,,"Develop and maintain data models (both conceptual and logical) that support business needs (Kimball)
 Help define and implement best practices for data modeling and architecture
 Work closely with data analysts and other stakeholders to understand their needs and ensure the data platform and deliverables support it
 Ensure that the data platform meets security requirements and complies with relevant regulations
-Evaluate and improve our tech stack and data deliverables so that we always have the most efficient and modern technologies and methods.","With your baggage, you probably have a relevant education and experience with one or more programming languages, such as Python, SQL, Java or others.",,,,,,,https://www.jobteaser.com/da/job-offers/bb0103a0-791b-44b2-9cb1-fc3233ba6d40-copenhagen-airports-a-s-cph-data-engineers?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,N/A,,Danish
+Evaluate and improve our tech stack and data deliverables so that we always have the most efficient and modern technologies and methods.","With your baggage, you probably have a relevant education and experience with one or more programming languages, such as Python, SQL, Java or others.","With your baggage, you probably have a relevant education and experience with one or more programming languages, such as Python, SQL, Java or others.",,,,,,https://www.jobteaser.com/da/job-offers/bb0103a0-791b-44b2-9cb1-fc3233ba6d40-copenhagen-airports-a-s-cph-data-engineers?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,N/A,,Danish
 14,Data Visualization Specialist,Pandora,Jewery,Copenhagen,Full Time,,"Working closely with your scrum team to design efficient, stable, and to-the-point products to drive commercial business value through reporting, self-service analytics and other data communication cases 
- Creating and maintaining high-quality and high-performance Power BI reports and semantic models 
+ Creating and maintaining high-quality and high-performance PowerBI reports and semantic models 
  Taking ownership of your products and continuously tracking stability, adoption, and impact 
  Ensuring that great user experiences are at the heart of all deliverables 
  Delivering self-service solutions for end-users and training them in their usage. 
@@ -171,14 +187,23 @@ Evaluate and improve our tech stack and data deliverables so that we always have
  Experience with Power BI, DAX, Analysis Services, Tabular Editor, SSMS, Databricks, Power Automate, Power Apps, and Jira. 
  Experience in working with relational data sets using SQL and Tabular models. 
  High proficiency in English and ability to communicate at all levels of technical competence. 
- Agile mindset and experience with Scrum and agile ways of working. ",,,,,,,https://www.linkedin.com/jobs/view/4008851991/?alternateChannel=search&refId=IllSVOlfsDynA9QBWNrWsg%3D%3D&trackingId=LaJxwaaj2OfTp1s%2B0NojSw%3D%3D,N/A,,English
+ Agile mindset and experience with Scrum and agile ways of working. ","Relevant education within Computer Science, Mathematics, Economics, Information Management, Statistics, or a related field. 
+ At least 2 years of experience working with BI, data preparation, and visualization. 
+ Experience from a global retail organization. 
+ Experience with PowerBI, DAX, Analysis Services, Tabular Editor, SSMS, Databricks, Power Automate, Power Apps, and Jira. 
+ Experience in working with relational data sets using SQL and Tabular models. 
+ High proficiency in English and ability to communicate at all levels of technical competence. 
+ Agile mindset and experience with Scrum and agile ways of working. ",,,,,,https://www.linkedin.com/jobs/view/4008851991/?alternateChannel=search&refId=IllSVOlfsDynA9QBWNrWsg%3D%3D&trackingId=LaJxwaaj2OfTp1s%2B0NojSw%3D%3D,N/A,,English
 15,Junior Data Analyst (Student),Dsb,Transportation,Copenhagen,Part-time,,"Collection and reporting on KPIs
 Development of dashboards together with colleagues
 Assistance to top management with data information
 Maintenance of master data","has extensive knowledge of Excel and can use it effectively for data processing.
 has knowledge of data structures and understands the importance of correct data handling.
 is familiar with or willing to learn Power Query and Power BI, which will enhance your analytical capabilities.
-can express yourself clearly in both Danish and English, as communication plays a significant role in all aspects of the job.",,,,,Danish/ English,,https://www.linkedin.com/jobs/view/3996436123/?alternateChannel=search&refId=IllSVOlfsDynA9QBWNrWsg%3D%3D&trackingId=9aLG9%2FYu5Y6dHGRViZmrJw%3D%3D,N/A,,Danish
+can express yourself clearly in both Danish and English, as communication plays a significant role in all aspects of the job.","has extensive knowledge of Excel and can use it effectively for data processing.
+has knowledge of data structures and understands the importance of correct data handling.
+is familiar with or willing to learn Power Query and PowerBI, which will enhance your analytical capabilities.
+can express yourself clearly in both Danish and English, as communication plays a significant role in all aspects of the job.",,,,Danish/ English,,https://www.linkedin.com/jobs/view/3996436123/?alternateChannel=search&refId=IllSVOlfsDynA9QBWNrWsg%3D%3D&trackingId=9aLG9%2FYu5Y6dHGRViZmrJw%3D%3D,N/A,,Danish
 16,Data Analyst/Power Bi Specialist Within Marketing Operations,Ltimindtree,Technology ,Copenhagen,Part-time,," 
 
 Work as an IT analyst Designer , Data Modeler and Data Analyst
@@ -200,28 +225,28 @@ Ability to understand technology and technical perspectives RDMS Teradata Snowfl
 Understanding of regulatory frameworks such as FINREP COREP etc
 Experience and knowledge of financial regulatory reporting and data attributes
 Ability to communicate effectively with both business stakeholders and IT experts
-Supporting testers in root cause analysis of incidents",,,,,,,,https://www.linkedin.com/jobs/view/4001577777/?alternateChannel=search&refId=IllSVOlfsDynA9QBWNrWsg%3D%3D&trackingId=CXo8KcSXT%2FbfoxNK11%2BLzg%3D%3D,N/A,,English
+Supporting testers in root cause analysis of incidents",,N/A,,,,,,https://www.linkedin.com/jobs/view/4001577777/?alternateChannel=search&refId=IllSVOlfsDynA9QBWNrWsg%3D%3D&trackingId=CXo8KcSXT%2FbfoxNK11%2BLzg%3D%3D,N/A,,English
 17,Business Data Analyst,Odiin Tech,Technology ,Remote,Freelancer,,"
 Experienced Data Analyst
 Strong expertise with reporting and PowerBI
 Background knowledge of Data Security and compliance
 Good stakeholder management/business facing skills
-Fluent in English",,,,,,,,https://www.linkedin.com/jobs/search/?currentJobId=3977764301&distance=25&geoId=104514075&keywords=data%20analyst&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true,N/A,,Eglish
-18,Power Bi Specialist,Lundbeck,Pharma,Copenhagen,Full Time,,"Develop, publish, and schedule Power BI reports and dashboards to meet business requirements. 
+Fluent in English",,N/A,,,,,,https://www.linkedin.com/jobs/search/?currentJobId=3977764301&distance=25&geoId=104514075&keywords=data%20analyst&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true,N/A,,Eglish
+18,Power Bi Specialist,Lundbeck,Pharma,Copenhagen,Full Time,,"Develop, publish, and schedule PowerBI reports and dashboards to meet business requirements. 
 Advise the business on how to create data insights and implement best practices for data visualization and analytics. 
 Collaborate with stakeholders to gather requirements and translate them into technical specifications. 
 Create data models and establish connections to various data sources. 
-Optimize Power BI dashboards with a focus on usability and performance. 
-Provide training and support to end-users on Power BI tools and functionalities. 
-Establish and maintain standards for Power BI development and usage across the organization. 
+Optimize PowerBI dashboards with a focus on usability and performance. 
+Provide training and support to end-users on PowerBI tools and functionalities. 
+Establish and maintain standards for PowerBI development and usage across the organization. 
 Enable and promote self-service BI capabilities, empowering users to create their own reports. 
-Stay updated with the latest Power BI features and best practices. ","Proven experience as a Power BI Specialist or similar role. 
+Stay updated with the latest PowerBI features and best practices. ","Proven experience as a Power BI Specialist or similar role. 
 Strong proficiency in Power BI, including DAX and Power Query. 
 Advanced analytical and problem-solving skills. 
 Solid communication and collaboration skills. 
 Capable of overseeing multiple assignments simultaneously and working on one’s own initiative. 
 Advanced skills in designing user-friendly and visually appealing frontends for dashboards and reports. ","Experience with other BI tools (e.g., Qlik Cloud). 
-Certification in Power BI or related technologies. 
+Certification in PowerBI or related technologies. 
 Experience with Power Platform tools such as Power Apps and Power Automate. 
 Hands-on experience with SQL and theoretical knowledge of Kimball dimensional modeling or other data modeling techniques in the context of BI. 
 Foundational knowledge of analytical engineering tools and practices such as GitHub and dbt, or other evidence of collaborating and communicating effectively with analytical or data engineering peers. ",,,,,,https://jobs.lundbeck/job/Copenhagen-Power-BI-Specialist-Dani/1113020401/?feedId=375733&utm_source=LinkedInJobPostings&utm_campaign=Lundbeck_LinkedIn,N/A,,English
@@ -231,7 +256,13 @@ Foundational knowledge of analytical engineering tools and practices such as Git
 - Expert in SQL (Oracle, MSSQL or similar)
 - Expert in data architecture, integration patterns & modelling principles
 - Experience in one or more cloud platforms (AWS/Azure/Google)
-- Hands on knowledge of Microservices, CI/CD, Clean Code and DDD.",,,,,English,,https://www.linkedin.com/jobs/search/?currentJobId=4012623475&distance=25&geoId=104514075&keywords=data%20analyst&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true,N/A,,English
+- Hands on knowledge of Microservices, CI/CD, Clean Code and DDD.","- Strong banking and payments domain knowledge
+- Degree in computer science and engineering 
+
+- Expert in SQL (Oracle, MSSQL or similar)
+- Expert in data architecture, integration patterns & modelling principles
+- Experience in one or more cloud platforms (AWS/Azure/Google)
+- Hands on knowledge of Microservices, CI/CD, Clean Code and DDD.",,,,English,,https://www.linkedin.com/jobs/search/?currentJobId=4012623475&distance=25&geoId=104514075&keywords=data%20analyst&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true,N/A,,English
 20,"Data Analyst, Commercial/Marketing",Trustpilot,,Copenhagen,,,"Delivering proficient analytics and insights to different parts of the business, through both workstream-focused initiatives and ad-hoc inquiries
 Picking the right solution for the problem you’ve got, from your arsenal of analytical tools and methods
 Working closely with the Commercial/Marketing or Trust teams to understand their data and their goals to deliver awesome solutions
@@ -240,7 +271,12 @@ Knowledge of reporting best practices and experience delivering actionable insig
 Experience in stakeholder and project management, with the knowledge to deliver results back to the business
 Proficiency in R or Python, and awesome SQL skills
 Familiarity with Airflow, DBT or similar tools used for building data pipelines
-Advanced written and verbal communication skills",,,,,English,,https://www.linkedin.com/jobs/search/?currentJobId=3989708601&distance=25&geoId=104514075&keywords=data%20analyst&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true,N/A,,English
+Advanced written and verbal communication skills","Good knowledge of key analytical and statistical methodologies, such as model-based analyses (regression, clustering etc.), cohort analysis and A/B testing. as well as reporting best practices, leveraging BI tools (such as Looker, Tableau etc.)
+Knowledge of reporting best practices and experience delivering actionable insights leveraging BI tools (such as Looker, Tableau etc.)
+Experience in stakeholder and project management, with the knowledge to deliver results back to the business
+Proficiency in R or Python, and awesome SQL skills
+Familiarity with Airflow, DBT or similar tools used for building data pipelines
+Advanced written and verbal communication skills",,,,English,,https://www.linkedin.com/jobs/search/?currentJobId=3989708601&distance=25&geoId=104514075&keywords=data%20analyst&origin=JOBS_HOME_KEYWORD_HISTORY&refresh=true,N/A,,English
 21,Risk Bi/Data Analyst - Digital Assets (Eu Remote),Keyrock,,Copenhagen,,,"Using BI tools connected to Keyrock DBs and external resources to analyze our trading activities and draw actionable conclusions for our Risk Management function and Finance Department. 
 Support and manage data requests from various business stakeholders – can understand business change needs and assess the impact of those changes
 Managing and ensuring the proper reporting structure, internally or towards external clients if needed
@@ -251,7 +287,14 @@ Experience on DW/BI, good understanding of data warehousing and dimensional mode
 Solid experience with at least one data visualization tool (Tableau, Qlik, Grafana, PowerBI, etc.)
  Experience in working with cross-functional teams to gather requirements and ability to set work priorities
 Good business sense and logical thinking. Ability to synthesize quantitative information and articulate concrete concepts to others. 
-Experience with financial trading, risk and derivatives analysis will be beneficial",,,,,English,,https://jobs.ashbyhq.com/Keyrock/2507b8d3-ae95-419c-9425-25042ba00444/application?utm_source=7QLEQdJ2L6,N/A,,English
+Experience with financial trading, risk and derivatives analysis will be beneficial","3+ year experience; Bachelor’s degree and above in a quantitative or engineering field with professional work experience in a relevant field
+Strong analytical thinking and communication skills
+Experience with analysis tools such as SQL, Python, Matlab or R
+Experience on DW/BI, good understanding of data warehousing and dimensional modeling
+Solid experience with at least one data visualization tool (Tableau, Qlik, Grafana, PowerBI, etc.)
+ Experience in working with cross-functional teams to gather requirements and ability to set work priorities
+Good business sense and logical thinking. Ability to synthesize quantitative information and articulate concrete concepts to others. 
+Experience with financial trading, risk and derivatives analysis will be beneficial",,,,English,,https://jobs.ashbyhq.com/Keyrock/2507b8d3-ae95-419c-9425-25042ba00444/application?utm_source=7QLEQdJ2L6,N/A,,English
 22,Senior Business Analyst Asset Management – Fee And Data Analytics,Danske Bank,Finance,Copenhagen,Full time,,"Collaborate with business areas to translate business needs into user stories, that can be understood by the team and developers.
 Act as the technical sparring partner and provide domain knowledge for developers relating to change within IT applications and system functionality.
 Analyse and improve business and technical processes.
@@ -301,7 +344,7 @@ It is a requirement for employment that you can provide a clean criminal record.
 
 
 
-","SQL, Excel, Power BI","It is crucial that you are proactive and thrive on optimizing processes, and you find it natural to challenge the business with alternative solutions. At the same time, you are structured and good at focusing on details.",either newly graduated or have a couple of years of experience in a similar position,experience in preparing commercial analyses in Excel and maintaining and developing Power BI reports,Danish,"have a long or medium-length higher education (e.g., a master's degree in business administration or similar).",https://www.jobindex.dk/c?t=h1495551&ctx=w&abtestid=3516054669--f774d13ee777aa3900d563da1123528248a34019,2024-08-28,,Danish
+","SQL, Excel, PowerBI","It is crucial that you are proactive and thrive on optimizing processes, and you find it natural to challenge the business with alternative solutions. At the same time, you are structured and good at focusing on details.",either newly graduated or have a couple of years of experience in a similar position,experience in preparing commercial analyses in Excel and maintaining and developing Power BI reports,Danish,"have a long or medium-length higher education (e.g., a master's degree in business administration or similar).",https://www.jobindex.dk/c?t=h1495551&ctx=w&abtestid=3516054669--f774d13ee777aa3900d563da1123528248a34019,2024-08-28,,Danish
 26,Business Analyst,Jack & Jones,Fashion,Brande,Full time,,"Creating action plans to reach targets and budgets.
 Following up on targets and budgets.
 Collaborating and supporting the countries to make sure daily, weekly and monthly business is running.
@@ -320,7 +363,7 @@ Develop data collection tools.","A master’s degree in data analysis or related
 1-3 year of work experience in data visualization as data/business analyst, business partnering position or similar.
 Experience from previous projects on applying technology in innovative solutions to solve business challenges.
 Knowledge about Tableau/Alteryx or/ and Microsoft Power BI.
-Fluency in English. Danish is a plus.","data visualization, tableau/Alteryx or/ and Microsoft Power BI.",,,1-3 year of work experience,"English, Danish is a plus",A master’s degree in data analysis or related field.,https://www.jobindex.dk/c?t=r12697580&ctx=w&abtestid=3516054679--9aa5a1054a3121ffec034caa90f6c460cd677d9d,2024-08-28,19/09/2024,english
+Fluency in English. Danish is a plus.","data visualization, tableau/Alteryx or/ and Microsoft PowerBI.",,,1-3 year of work experience,"English, Danish is a plus",A master’s degree in data analysis or related field.,https://www.jobindex.dk/c?t=r12697580&ctx=w&abtestid=3516054679--9aa5a1054a3121ffec034caa90f6c460cd677d9d,2024-08-28,19/09/2024,english
 28,It Data Engineer,Symphogyn,pharma,Ballerup,Fixed Term,,"Organize raw data in Azure Databricks
 Build and design data pipelines
 Maintaining datasets
@@ -409,7 +452,7 @@ You are familiar with SQL to model large datasets.
 You are the kind of person that is curious, proactive and a quick learner with solid business understanding.
 You love visualizing complex datasets.
 You have experience and/or willingness to work in a fast-paced agile environment.
-You are motivated by professional challenges and intellectual sparring.","Tableau or Power BI ,SQL",Tableau,Associate,"familiar with Tableau or PowerBI - with some work experience in building the dashboards, preferably from a student position (up to 2 years of relevant experience from a full-time job position is also welcome).",english, masters in business or a technical masters with some introductory business courses.,https://www.linkedin.com/jobs/view/4011435322/?alternateChannel=search&refId=TiqwH4GtGPybh%2Bak%2BOG89A%3D%3D&trackingId=KOS8BHK%2Ff%2F36a4exoo6lPA%3D%3D,2024-08-27,,english
+You are motivated by professional challenges and intellectual sparring.","Tableau or PowerBI ,SQL",Tableau,Associate,"familiar with Tableau or PowerBI - with some work experience in building the dashboards, preferably from a student position (up to 2 years of relevant experience from a full-time job position is also welcome).",english, masters in business or a technical masters with some introductory business courses.,https://www.linkedin.com/jobs/view/4011435322/?alternateChannel=search&refId=TiqwH4GtGPybh%2Bak%2BOG89A%3D%3D&trackingId=KOS8BHK%2Ff%2F36a4exoo6lPA%3D%3D,2024-08-27,,english
 36,Lean Consultant (Bi),Novo Nordisk,pharmaceutical,Bagsværd,Full time,,"Developing data visualisations and converting data into insights 
 Conducting data analysis to support decision making 
 Creating and maintaining our KPI-structure, site-VSM and other data-based systems 
@@ -419,20 +462,20 @@ At least 2 years of work experience within Lean, data analysis and visualization
 Experience with Microsoft Power Platform, Tableau while experience with Alteryx is advanageous 
 Excellent organization and communication skills 
 Proficiency in both written and verbal English with understanding of Danish being advantageos ","VSM, Visual Management, SPS, Continuous Improvements.Microsoft Power Platform, Tableau ",Alteryx,Associate,"2 years of work experience within Lean, data analysis and visualization ","English, Danish is a plus", bachelor’s or master’s degree within a relevant field ,https://www.linkedin.com/jobs/view/4009413113/?alternateChannel=search&refId=WKuXKBmZNcXh%2FVqeAJKawA%3D%3D&trackingId=ovg8AKO9CLFprBdy4XLTPw%3D%3D,2024-08-27,15/09/2024,english
-35,Business Intelligence Developer,Tp Aerospace ·,Aviation,Copenhagen,Full time,,"Maintain existing data models (SSAS and Power BI Desktop)
-Training the organization in using Power BI reports and functionalities with regards to consuming existing apps/reports and power bi self-service (e.g. creation of new reports)
-Optimize Power BI solutions for performance and scalability
-Collaborate with business stakeholders to understand their data needs and expand the Power BI platform by creating new data models and reports
+35,Business Intelligence Developer,Tp Aerospace ·,Aviation,Copenhagen,Full time,,"Maintain existing data models (SSAS and PowerBI Desktop)
+Training the organization in using PowerBI reports and functionalities with regards to consuming existing apps/reports and PowerBI self-service (e.g. creation of new reports)
+Optimize PowerBI solutions for performance and scalability
+Collaborate with business stakeholders to understand their data needs and expand the PowerBI platform by creating new data models and reports
 Ensure data accuracy and consistency across all reports and dashboards
-Identify and introduce new (or currently un-utilized) Power BI functionalities","Strong experience with the Microsoft Power BI suite, including Power BI services, Power BI Desktop and Microsoft Visual studio
-Proficient in data modelling, DAX and Power Query M"," Power BI suite, including Power BI services, Power BI Desktop and Microsoft Visual studio
+Identify and introduce new (or currently un-utilized) PowerBI functionalities","Strong experience with the Microsoft Power BI suite, including Power BI services, Power BI Desktop and Microsoft Visual studio
+Proficient in data modelling, DAX and Power Query M"," PowerBI suite, including PowerBI services, PowerBI Desktop and Microsoft Visual studio
 ,data modelling, DAX and Power Query M", DAX and Power Query M,Associate,2-5 years of relevant work experience from a similar role,english,,https://www.linkedin.com/jobs/search/?currentJobId=4010465931&distance=25&geoId=104514075&keywords=Data%20Analysis&origin=JOB_SEARCH_PAGE_KEYWORD_AUTOCOMPLETE&refresh=true#HYM,2024-08-29,25/09/2024,english
 36,"Business Analyst, Recurring Revenue",3Shape,Computer Hardware Development,Copenhagen,Full time,,"Requirement Gathering & Analysis: Collaborate with stakeholders to gather, document, and evaluate business requirements for new features, enhancements, and integrations within and beyond our SaaS platform in close collaboration with core stakeholders across IT, Finance, Customer Success, Customer Care, Marketing and Sales
 Process Improvement: Identify and recommend improvements to business processes that will enhance the efficiency and effectiveness of our SaaS offerings.
 Data Analysis: Utilize data to identify trends, generate insights, and provide recommendations to support decision-making and product development.
 User Stories & Documentation: Create detailed user stories, process flows, and other documentation to clearly communicate requirements to the development team.
 Stakeholder Communication: Serve as a liaison between business stakeholders, product managers, and development teams to ensure alignment and clarity throughout the project lifecycle.
-Reporting: Develop and maintain reports and dashboards that track OKRs, project progress, and other metrics to provide stakeholders with actionable insights.","Experience: 1-3 years of experience as a Business Analyst or similar role, with a commercial focus in the intersection of business and technology and within an agile development setup. Technical Skills: Proficiency in business analysis tools (e.g., JIRA, Confluence, PowerBI) and experience with data analysis and business process mapping Analytical Mindset: Good analytical and problem-solving skills with a keen attention to detail - Excel proficiency is a given Communication: Advanced written and verbal communication skills with the ability to translate complex concepts into clear, understandable PowerPoint slides and visuals Customer Focus: A deep understanding of customer needs and a commitment to delivering high quality user experiences. Collaboration: A structured, yet pragmatic mindset combined with effective stakeholder management and collaboration skills.","JIRA, Confluence, Power BI, PowerPoint, Excel","JIRA, Power BI",,2 years on similar job,,,"Business Analyst, Recurring Revenue",2024-04-09,,English
+Reporting: Develop and maintain reports and dashboards that track OKRs, project progress, and other metrics to provide stakeholders with actionable insights.","Experience: 1-3 years of experience as a Business Analyst or similar role, with a commercial focus in the intersection of business and technology and within an agile development setup. Technical Skills: Proficiency in business analysis tools (e.g., JIRA, Confluence, PowerBI) and experience with data analysis and business process mapping Analytical Mindset: Good analytical and problem-solving skills with a keen attention to detail - Excel proficiency is a given Communication: Advanced written and verbal communication skills with the ability to translate complex concepts into clear, understandable PowerPoint slides and visuals Customer Focus: A deep understanding of customer needs and a commitment to delivering high quality user experiences. Collaboration: A structured, yet pragmatic mindset combined with effective stakeholder management and collaboration skills.","JIRA, Confluence, PowerBI, PowerPoint, Excel","JIRA, Power BI",,2 years on similar job,,,"Business Analyst, Recurring Revenue",2024-04-09,,English
 37,Pricing Analyst,Pandora Jewelery,Beauty & Personal Accessories Stores,Copenhagen,Full time,,"Actively manage and optimize local list prices to support Pandora’s strategic and financial goals.
 Share timely product margin outlooks with key stakeholders.
 Deliver relevant, actionable insights through regular reporting.
@@ -445,7 +488,7 @@ Detail-oriented with a focus on driving results.
 Passionate about pricing and revenue management, and eager to collaborate with others.
 Fluent in English with excellent presentation and communication skills.
 Team-player with the ability to engage and support colleagues, including remote teams.
-Bonus Skills: Experience with Alteryx or similar ETL/analysis tools","Microsoft Office, Power BI",Alteryx,,1-2 years,,"Bachelor’s or Master’s degree in Business, Economics, Mathematics, or a related field.",Pricing Analyst,2024-01-09,,English
+Bonus Skills: Experience with Alteryx or similar ETL/analysis tools","Microsoft Office, PowerBI",Alteryx,,1-2 years,,"Bachelor’s or Master’s degree in Business, Economics, Mathematics, or a related field.",Pricing Analyst,2024-01-09,,English
 38,Digital Analytics Engineer,Pandora Jewelery,Beauty & Personal Accessories Stores,Copenhagen,Full time,,"
  End-to-end testing, evaluation and quality assurance of Technical Implementation such as server-side APIs, tags and pixels running client-side. 
  Collaboration with other Web Analysts on analysing and quantifying the impact of extensive tagging on page speed and revenue. 
@@ -471,7 +514,7 @@ Extract, Transform, Load (ETL)
 Paid Media Advertising
 Quality Assurance
 Server Side",,,3 and more,,,Digital Analytics Engineer,N/A,,English
-39,Data Analyst,Thrive It Systems Ltd,IT,Copenhagen,Full time,,,"Work as an IT analyst Designer , Data Modeler and Data Analyst
+39,Data Analyst,Thrive It Systems Ltd,IT,Copenhagen,Full time,,N/A,"Work as an IT analyst Designer , Data Modeler and Data Analyst
 Minimum 10 years of experience
 Strong in SQL
 Understanding business requirements and converting them to IT requirements
@@ -553,7 +596,7 @@ Proven track record of delivering successful data projects
 Familiarity with data warehousing: BigQuery preferred
 Familiarity with data visualization tools (Looker Studio, Power BI, Tableau etc. applicable)
 Strong data integrity, accuracy, and security by implementing robust data governance and management practices
-Knowledge of Google Ads, Google Analytics, Google Tag Manager and HubSpot","SQL, JavaScript, Looker/Studio/Power BI/Tableau, Google Ads, Google Tag Manager, HubSpot",BigQuery,,2 years,,,BI & Analytics Specialist,N/A,,
+Knowledge of Google Ads, Google Analytics, Google Tag Manager and HubSpot","SQL, JavaScript, Looker/Studio/PowerBI/Tableau, Google Ads, Google Tag Manager, HubSpot",BigQuery,,2 years,,,BI & Analytics Specialist,N/A,,
 44,Commercial Data Analyst,Flying Tiger Copenhagen,Internet Retail,Denmark/ home,,,"Data Analysis & Insights: Dive deep into large datasets to perform statistical analysis, basket analysis, and other data-driven studies to support and inform our pricing and trade strategies. Tool Development: Collaborate in the creation and refinement of reporting and pricing tools, ensuring that new tools are effectively communicated and implemented across teams. Reporting: Develop and manage comprehensive reports and dynamic dashboards that deliver actionable insights to key stakeholders. Stakeholder Collaboration: Work closely with pricing and trade departments to seamlessly integrate data insights into decision-making processes. Pricing Optimization: Support the development and implementation of pricing strategies, providing insights into product, pricing, and KPIs to guide future business directions and mitigate margin leakage","Educational Background: A master’s degree in Economics, Statistics, Mathematics, Data Science, or a related field.  Experience: 2-3 years of experience in a data-centric analytical role, ideally within pricing or retail.
 Technical Skills: Proficiency in tools such as Power BI, SQL, Power Query, VBA, Python, or similar, is essential to be able to manipulate large datasets and develop sophisticated analytical models.
 Statistical Analysis Expertise: Strong experience in statistical analysis and working with large datasets is crucial.
@@ -561,4 +604,11 @@ Analytical Mindset: A strong aptitude for analytical thinking and problem-solvin
 Business Acumen: An understanding of business principles and a preference for data-driven decision-making.
 Communication Skills: Excellent written and verbal communication skills are required to be able to present complex data in a clear and compelling way to various stakeholders.
 Attention to Detail: High attention to detail is necessary to ensure accuracy and reliability in your analyses and reporting.
-Language Proficiency: Fluency in English, both written and spoken, is a must for effective communication across our global teams.",,,,,,,,N/A,,
+Language Proficiency: Fluency in English, both written and spoken, is a must for effective communication across our global teams.","Educational Background: A master’s degree in Economics, Statistics, Mathematics, Data Science, or a related field.  Experience: 2-3 years of experience in a data-centric analytical role, ideally within pricing or retail.
+Technical Skills: Proficiency in tools such as PowerBI, SQL, Power Query, VBA, Python, or similar, is essential to be able to manipulate large datasets and develop sophisticated analytical models.
+Statistical Analysis Expertise: Strong experience in statistical analysis and working with large datasets is crucial.
+Analytical Mindset: A strong aptitude for analytical thinking and problem-solving, coupled with a structured approach to tasks.
+Business Acumen: An understanding of business principles and a preference for data-driven decision-making.
+Communication Skills: Excellent written and verbal communication skills are required to be able to present complex data in a clear and compelling way to various stakeholders.
+Attention to Detail: High attention to detail is necessary to ensure accuracy and reliability in your analyses and reporting.
+Language Proficiency: Fluency in English, both written and spoken, is a must for effective communication across our global teams.",,,,,,,N/A,,
