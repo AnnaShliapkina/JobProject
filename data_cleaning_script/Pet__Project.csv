@@ -172,7 +172,7 @@ Assistance to top management with data information
 Maintenance of master data","has extensive knowledge of Excel and can use it effectively for data processing.
 has knowledge of data structures and understands the importance of correct data handling.
 is familiar with or willing to learn Power Query and Power BI, which will enhance your analytical capabilities.
-can express yourself clearly in both Danish and English, as communication plays a significant role in all aspects of the job.",,,,,Danish/ English,,https://www.linkedin.com/jobs/view/3996436123/?alternateChannel=search&refId=IllSVOlfsDynA9QBWNrWsg%3D%3D&trackingId=9aLG9%2FYu5Y6dHGRViZmrJw%3D%3D,16/08/24,,Danish
+can express yourself clearly in both Danish and English, as communication plays a significant role in all aspects of the job.","Excel, Power Query, Power BI",,,,Danish/ English,,https://www.linkedin.com/jobs/view/3996436123/?alternateChannel=search&refId=IllSVOlfsDynA9QBWNrWsg%3D%3D&trackingId=9aLG9%2FYu5Y6dHGRViZmrJw%3D%3D,16/08/24,,Danish
 16,Data Analyst/Power BI specialist within Marketing Operations,LTIMindtree,IT,Copenhagen,Part-time,," 
 
 Work as an IT analyst Designer , Data Modeler and Data Analyst
@@ -720,3 +720,17 @@ STYRELSEN",Ministry,Fredriksberg,full-time,N/A,"Developing, testing, and deployi
 Transforming data on the new analysis data platform, including developing dimensional data models for the Customs Agency by translating business needs into BI reports and self-service solutions.
 Establishing and implementing new work processes and best practices for developing and modeling data warehouses – building everything from the ground up in close collaboration with the Danish Customs Agency.
 Adapting your tasks as new IT systems are released and the data platform matures.","We prefer that you have good experience with data warehouse development, but what’s most important is your passion for developing solutions that provide the Danish Customs Agency with new insights into their operations. ","SQL, Azure Data Factory, Power BI","SQL, Azure Data Factory, Power BI",N/A,2 -3 years,Danish,Master's Degree,https://candidate.hr-manager.net/ApplicationInit.aspx?cid=5001&ProjectId=182857&DepartmentId=9414&MediaId=5&SkipAdvertisement=False,13/09/2024,30/09/2024,danish
+62,Business Analyst,Falck,Health Care,Copenhagen,full-time,N/A,"Develop and maintain business intelligence solutions. 
+Conduct performance analytics to identify trends and opportunities for improvement. 
+Create and implement optimization models to enhance operational efficiency. 
+Perform customer analytics to understand and predict customer behavior. 
+Support the development of pricing models and profitability analysis. ","Fluency in or a willingness to improve your skills in DAX and SQL 
+A curious and analytical mindset, with the ability to identify problems and apply situation-specific data and methods to solve them 
+An interest in other programming languages, such as Python or R, is a plus 
+Enjoyment in working with stakeholders, with the ability to identify, plan, and secure their buy-in 
+An interest in improving your communication and presentation skills, with the ability to convey insights and decisions tailored to the audience ","Power BI, DAX, SQL, Python, R",,N/A,N/A,English,N/A,https://falck.csod.com/ux/ats/careersite/2/home/requisition/2100?c=falck,13/09/2024,18/10/2024,english
+63,Lead Data Architect,Zure Aps,IT,Roskilde,full-time,N/A," responsibility for leading Zure’s data projects, designing internal workflows and best practices, as well as designing data architectures and data models. They expect you to have several years of solid experience in designing data architectures, preferably on the Azure platform, along with proven success in leading data projects. You should also be able to discuss solutions  with both the team and with the customer’s various stakeholders naturally and recommend the best solutions to the customer. Tasks may also include data consulting services, where you will help develop information management plans and roadmaps for customer organizations.
+At Zure, their projects are exclusively based on cloud technologies, where they build modern data platforms for their customers based on both Data Lakehouse and more traditional data storage methods. They use all data services found in the Microsoft ecosystem, primarily Microsoft Fabric, Azure Databricks, and all data services in the Azure ecosystem. You can read more about this on their blog.
+You will be able to support the team and act as a point of contact with the customer, as well as serve as a link between the development team and the customer.
+
+At Zure, the role as lead data architect does not mean you will be working solely with data warehouses; you may also work with IoT solutions, APIs, Power BI, data quality management, and message-based architectures.",you have several years of experience with SQL and are looking for new challenges in Azure,"SQL, Azure",,Senior,Several years,English,N/A,https://job.jobnet.dk/CV/FindWork/details/6100305,10/09/2024,15/10/2024,english
