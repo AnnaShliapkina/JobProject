@@ -160,12 +160,14 @@ def clean_csv(input_path, output_path):
     # Additional cleaning tasks as needed (e.g., clarifying employment type)
     if 'employment_type' in df.columns:
         df['employment_type'].replace({"-": "N/A", "": "N/A"}, inplace=True)
+        
+   
 
     # Saving the cleaned CSV
     df.to_csv(output_path, index=False)
 
 # File paths
-input_path = 'data_cleaning_script/Pet_Project.csv'  
+input_path = 'data_cleaning_script/Pet_Project_2609.csv'  
 output_path = 'data_cleaning_script/cleaned_data.csv'  
 
 # Clean the CSV file
